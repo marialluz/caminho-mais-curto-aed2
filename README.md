@@ -79,7 +79,7 @@ Escolhi o cenário de **Acesso à UFRN a partir de diferentes bairros**, que cor
 
 ### Roteamento OSMnx
 
-![Roteamento OSMnx](./imagens/vizu-osmnx.png)
+![Roteamento OSMnx](./imagens/vizu-osmnx-img.png)
 
 ---
 

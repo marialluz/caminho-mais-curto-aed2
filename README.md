@@ -9,6 +9,8 @@
 
 ## Descrição do Trabalho
 
+Link para vídeo no Youtube: https://youtu.be/C4Dv21YcHHA
+
 Este repositório reúne a implementação e avaliação de três algoritmos de menor caminho aplicados ao cenário de deslocamento de estudantes de diferentes bairros de Natal/Parnamirim até o Departamento de Engenharia de Computação e Automação (DCA) da UFRN. O objetivo é comparar:
 
 - **Distância percorrida** (km)
